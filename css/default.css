@@ -52,7 +52,7 @@ li
 
 #email
 {
-    background: url(images/bullet.png) left center no-repeat;
+    background: url(../images/bullet.png) left center no-repeat;
     padding-left: 21px;
 }
 
@@ -69,7 +69,7 @@ a:hover
 
 #logocontainer
 {
-    background: url(images/blueoverlay.jpg) no-repeat;
+    background: url(../images/blueoverlay.jpg) no-repeat;
     height: 734px;
     width: 382px;
     float: left;
